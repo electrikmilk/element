@@ -1,0 +1,24 @@
+{
+  "name": "@electrikmilk/element",
+  "version": "0.0.1",
+  "description": "JavaScript DOM abstraction",
+  "main": "element.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electrikmilk/element.git"
+  },
+  "keywords": [
+    "dom",
+    "abstraction",
+    "html"
+  ],
+  "author": "electrikmilk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/electrikmilk/element/issues"
+  },
+  "homepage": "https://github.com/electrikmilk/element#readme"
+}
