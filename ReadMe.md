@@ -26,6 +26,8 @@ const myDiv = new Element('div', {
     text: '> Hello, Element!'
 });
 
+myDiv.style('backgroundColor','red');
+
 const divs = $all('div');
 divs.forEach((e) => {
     e.style.color = 'lightgreen';
